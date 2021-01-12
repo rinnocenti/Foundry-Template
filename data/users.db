@@ -14,3 +14,4 @@
 {"_id":"r4uSLufd7Z8mb4fF","name":"Player 6","flags":{},"role":2,"permissions":{},"password":"","color":"#62cc28","hotbar":{}}
 {"_id":"iG1TOsGMjfbAvfxg","name":"Player 7","flags":{},"role":2,"permissions":{},"password":"","color":"#6ccc28","hotbar":{}}
 {"_id":"Qu7E86Xi2q9u0u1z","name":"Player Test","flags":{},"role":2,"permissions":{},"password":"","color":"#3528cc","hotbar":{}}
+{"_id":"X4uo406iXTm4HkVN","name":"Gamemaster","flags":{"dice-so-nice":{"welcomeMessageShown":true}},"role":4,"permissions":{},"password":"","color":"#b528cc","hotbar":{}}
