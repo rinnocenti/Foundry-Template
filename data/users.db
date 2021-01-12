@@ -1,0 +1,16 @@
+{"name":"Gamemaster","flags":{},"role":4,"permissions":{},"color":"#b528cc","hotbar":{},"_id":"X4uo406iXTm4HkVN"}
+{"name":"Player 2","flags":{},"role":1,"permissions":{},"color":"#31cc28","hotbar":{},"_id":"fndemsFPQOKlQmlJ"}
+{"name":"Player 3","flags":{},"role":1,"permissions":{},"color":"#a228cc","hotbar":{},"_id":"PBkTMqNxvGjoDyn5"}
+{"name":"Player 4","flags":{},"role":1,"permissions":{},"color":"#2856cc","hotbar":{},"_id":"gA5xE0AT8R1t0s2X"}
+{"name":"Player 5","flags":{},"role":1,"permissions":{},"color":"#28cc32","hotbar":{},"_id":"0gq993wckhGZNbNh"}
+{"name":"Player 6","flags":{},"role":1,"permissions":{},"color":"#62cc28","hotbar":{},"_id":"r4uSLufd7Z8mb4fF"}
+{"name":"Player 7","flags":{},"role":1,"permissions":{},"color":"#6ccc28","hotbar":{},"_id":"iG1TOsGMjfbAvfxg"}
+{"name":"Player 8","flags":{},"role":1,"permissions":{},"color":"#3528cc","hotbar":{},"_id":"Qu7E86Xi2q9u0u1z"}
+{"_id":"X4uo406iXTm4HkVN","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#b528cc","hotbar":{}}
+{"_id":"fndemsFPQOKlQmlJ","name":"Player 2","flags":{},"role":2,"permissions":{},"password":"","color":"#31cc28","hotbar":{}}
+{"_id":"PBkTMqNxvGjoDyn5","name":"Player 3","flags":{},"role":2,"permissions":{},"password":"","color":"#a228cc","hotbar":{}}
+{"_id":"gA5xE0AT8R1t0s2X","name":"Player 4","flags":{},"role":2,"permissions":{},"password":"","color":"#2856cc","hotbar":{}}
+{"_id":"0gq993wckhGZNbNh","name":"Player 5","flags":{},"role":2,"permissions":{},"password":"","color":"#28cc32","hotbar":{}}
+{"_id":"r4uSLufd7Z8mb4fF","name":"Player 6","flags":{},"role":2,"permissions":{},"password":"","color":"#62cc28","hotbar":{}}
+{"_id":"iG1TOsGMjfbAvfxg","name":"Player 7","flags":{},"role":2,"permissions":{},"password":"","color":"#6ccc28","hotbar":{}}
+{"_id":"Qu7E86Xi2q9u0u1z","name":"Player Test","flags":{},"role":2,"permissions":{},"password":"","color":"#3528cc","hotbar":{}}
