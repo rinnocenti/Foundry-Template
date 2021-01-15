@@ -61,3 +61,38 @@
 {"name":"Factions","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"uTo9kI5hHoYFKEwp"}
 {"name":"Custom Services","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"uedRw2OgM151tM6j"}
 {"name":"World Maps","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"ulNF6xNzsSSFk9rH"}
+{"name":"Custom Items Keys","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"jEChmG4v5j6XDGJJ"}
+{"name":"Custom Item Locks","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Uss6lf6OaceooY6v"}
+{"name":"Custom Items Notes","type":"Item","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"o7IMSI5zzcxUTpIS"}
+{"_id":"Uss6lf6OaceooY6v","name":"Custom Items Locks","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Goods","type":"Item","sort":1400000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"FmEbrVsyo7h7BzfL"}
+{"name":"Armory","type":"Item","sort":1500000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"Dupw6alXy8vYYI7I"}
+{"name":"Consumables","type":"Item","sort":1600000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"gTWZBHibLFp09weQ"}
+{"name":"Packs","type":"Item","sort":1700000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"54NktEmiGfLMrktu"}
+{"name":"Backpacks","type":"Item","sort":1800000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"6lRJUrw9M9UJHsQ7"}
+{"name":"Transports","type":"Item","sort":1900000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"bq8HZsAnrWtMHTpM"}
+{"name":"Rents","type":"Item","sort":2000000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"oAPJRneukJZVecax"}
+{"name":"Services","type":"Item","sort":2100000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"58mGcZbkAXtQDUbO"}
+{"name":"Others","type":"Item","sort":2200000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"SJhqwKnwEtOdPlbZ"}
+{"_id":"oAPJRneukJZVecax","name":"Rents","type":"Item","sort":2300000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
+{"_id":"58mGcZbkAXtQDUbO","name":"Services","type":"Item","sort":2400000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
+{"_id":"bq8HZsAnrWtMHTpM","name":"Transports","type":"Item","sort":2500000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
+{"$$deleted":true,"_id":"uedRw2OgM151tM6j"}
+{"name":"Meal","type":"Item","sort":2600000,"flags":{},"parent":"FtZRJJ062wOWo9wz","sorting":"a","color":"","_id":"YktXetnu3nH5aRik"}
+{"name":"Beverage","type":"Item","sort":2700000,"flags":{},"parent":"FtZRJJ062wOWo9wz","sorting":"a","color":"","_id":"zzorKrqnZkQqZHeN"}
+{"name":"10 pg","type":"Item","sort":2800000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"5uGZHn1g0D7Di2ZZ"}
+{"name":"50 gp","type":"Item","sort":2900000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"jMTGNZb5QGh1Kte9"}
+{"name":"100 gp","type":"Item","sort":3000000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"gK0nyaOrijYv2Q3q"}
+{"name":"500 gp","type":"Item","sort":3100000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"eQuPNfNTYv728Jtv"}
+{"name":"1000","type":"Item","sort":3200000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"cooThzCyvUI04mHT"}
+{"_id":"cooThzCyvUI04mHT","name":"1000 gp","type":"Item","sort":3200000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":""}
+{"_id":"RGz4kAoiyUrmvzds","name":"Custom Gemstones","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"m","color":"#000000"}
+{"_id":"MESOP3UGEKH3bxUX","name":"Monasterio","type":"Item","sort":100000,"flags":{},"parent":"jEChmG4v5j6XDGJJ","sorting":"a","color":"#000000"}
+{"_id":"5gvBjuK3YSylCDj1","name":"Pousada","type":"Item","sort":200000,"flags":{},"parent":"jEChmG4v5j6XDGJJ","sorting":"a","color":"#000000"}
+{"$$deleted":true,"_id":"DBf7AF7qNbWGU7rr"}
+{"name":"Custom Items Treasure","type":"Item","sort":3300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"tb0nkACZMM9Bouqy"}
+{"$$deleted":true,"_id":"aPsDrTApzo1LRTxW"}
+{"$$deleted":true,"_id":"WSouOnF69LIjAA2D"}
+{"$$deleted":true,"_id":"YlaIbPDxOo61zHJb"}
+{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
+{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
