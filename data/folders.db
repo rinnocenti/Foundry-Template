@@ -2,34 +2,29 @@
 {"name":"Campodourado","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"0WcPykg9hSUXRseN"}
 {"name":"Outros","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#04b9a4","_id":"3oBUbflneC5nwqvO"}
 {"name":"Cultos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"3piGMyXFVHxYDnFO"}
-{"name":"Pousada","type":"Item","sort":800000,"flags":{},"parent":"DBf7AF7qNbWGU7rr","sorting":"a","color":"#000000","_id":"5gvBjuK3YSylCDj1"}
 {"name":"Quest: Pináculo Penaventaval","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"6Dd2VeJ0RE5ehWMf"}
 {"name":"RedLarch","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"6HXYvAWhVvnH7Vui"}
+{"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"6hfD3qn3wB0Vn3X3"}
 {"name":"Pousada Bargewright","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"8xM7RNWMC4gAxZsD"}
 {"name":"Salão Summit","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"9tj103hVN9EMA3vz"}
 {"name":"Beliard","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"BKIFqMKyYuAbWSbO"}
 {"name":"Fortaleza Rivergard","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"ChOkJopw08x16bWJ"}
 {"_id":"Csxjv6bbZ5uhtlPi","name":"World NPCs","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#008000"}
-{"name":"Chave","type":"Item","sort":600000,"flags":{},"parent":"aPsDrTApzo1LRTxW","sorting":"a","color":"#000000","_id":"DBf7AF7qNbWGU7rr"}
 {"name":"Yartar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Df4UeT2kSvSnh8qC"}
 {"name":"Bargewright Inn","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"DnTFcpTyXrPLOtcq"}
 {"name":"Culto do Ódio Uivante","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"FIWBpeMTFlxWWme9"}
 {"_id":"FPqwUCNiJ3idwpZV","name":"Loots","type":"Actor","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"#c1c100"}
 {"name":"Womford","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"FsQfYXs7rv9DXxtj"}
-{"name":"Custom Recipies","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"FtZRJJ062wOWo9wz"}
 {"name":"Ponte Ocidental","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Fv0p2eWDc7URyeG5"}
 {"_id":"GLcoYCR2LWOMMkw2","name":"Manual Monster","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#800000"}
 {"name":"Tribos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"Kv2ZataxUH2zM49i"}
 {"name":"Culto da Onda Esmagadora","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"LO77sJ29CDEDBsCz"}
-{"name":"Monasterio","type":"Item","sort":700000,"flags":{},"parent":"DBf7AF7qNbWGU7rr","sorting":"a","color":"#000000","_id":"MESOP3UGEKH3bxUX"}
 {"_id":"NMEO7TXqlRAwczJk","name":"Templates","type":"Actor","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#004080"}
 {"name":"Cities Map","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#804000","_id":"NNVXqb54Y3sl9Z6o"}
 {"_id":"Orks5yMcA1oyQlXM","name":"Faerun-Factions","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#0d9e0a"}
-{"name":"Custom Items Shop","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"QjnoD7Cs8CN5YLoZ"}
 {"name":"Culto do Ar","type":"Scene","sort":400000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#45e1e3","_id":"R12YZpP9XWSQ6wyO"}
-{"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"R9oUQrCs4YvXauzj"}
-{"name":"Custom Gemstones","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"RGz4kAoiyUrmvzds"}
 {"_id":"Rk5kq06jef2AopZg","name":"Faerun-City-Locals","type":"JournalEntry","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#900404"}
+{"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"6hfD3qn3wB0Vn3X3","sorting":"a","color":"","_id":"RwXKXTzESQFOsbuk"}
 {"name":"Lua Argentea","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"SRVW5iDwRfODWNqR"}
 {"name":"Quest: Fortaleza Riverguard","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"SVMSDhUnYc2EZGdM"}
 {"_id":"UFAOgbGGAoFZDvxf","name":"Faerun-Dungeons","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#1b7901"}
@@ -37,20 +32,16 @@
 {"name":"Cultos e Tribos","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"VbwMioA3On7bx8lR"}
 {"_id":"VkuOZ1pzrvDl4qzD","name":"Informações Players","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#041b8b"}
 {"name":"my Scenes","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Vvtb09dsbGKf4XR9"}
-{"name":"Tesouros","type":"Item","sort":1000000,"flags":{},"parent":"aPsDrTApzo1LRTxW","sorting":"a","color":"#000000","_id":"WSouOnF69LIjAA2D"}
 {"name":"Conyberry","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"YdiuemptETJcVEJq"}
-{"name":"Notes","type":"Item","sort":900000,"flags":{},"parent":"aPsDrTApzo1LRTxW","sorting":"a","color":"#000000","_id":"YlaIbPDxOo61zHJb"}
-{"name":"Custom Items","type":"Item","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"aPsDrTApzo1LRTxW"}
 {"_id":"alPfJ3dk1YPJZZC0","name":"Faerun-Maps","type":"JournalEntry","sort":0,"flags":{},"parent":null,"sorting":"a","color":"#0c5a02"}
 {"name":"Odio Uivante","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"c6D2t7wXvv0lZS8T"}
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":"6hfD3qn3wB0Vn3X3","sorting":"a","color":"","_id":"dcy9alw7jDpeWOYo"}
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
-{"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"R9oUQrCs4YvXauzj","sorting":"a","color":"","_id":"gVp6PEokoIGVFcyt"}
-{"name":"Items","type":"Item","sort":null,"flags":{},"parent":"R9oUQrCs4YvXauzj","sorting":"a","color":"","_id":"hKa15kGa3ngcI4Fu"}
 {"name":"Delegação de Mirabar","type":"Actor","sort":null,"flags":{},"parent":"uPrfD60BrG5orgqA","sorting":"a","color":"#000000","_id":"hTAUgIgjjmXTUphs"}
 {"name":"Culto da Terra Negra","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"hyT3Dn1uNwFIqX5q"}
 {"name":"Quest: Vale Suspirante","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"i4LtC2qOvOGCY3XF"}
 {"name":"Culto da Terra","type":"Scene","sort":300000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#631386","_id":"j8Rt075hqQmu1eul"}
-{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys and Locals","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
+{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
 {"name":"Dungeons Maps","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#008000","_id":"n1rMauCzRghGXEvw"}
 {"name":"Phandalin","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"oPnauNKd1J9nrDA5"}
 {"name":"Culto da Chama Eterna","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"qJrnQ1kjCtEGa0yl"}
@@ -59,40 +50,8 @@
 {"name":"Monaterio de Pedra","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"tJPPogTieBxrmOM6"}
 {"name":"Outros","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"uPrfD60BrG5orgqA"}
 {"name":"Factions","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"uTo9kI5hHoYFKEwp"}
-{"name":"Custom Services","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"uedRw2OgM151tM6j"}
 {"name":"World Maps","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"ulNF6xNzsSSFk9rH"}
-{"name":"Custom Items Keys","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"jEChmG4v5j6XDGJJ"}
-{"name":"Custom Item Locks","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Uss6lf6OaceooY6v"}
-{"name":"Custom Items Notes","type":"Item","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"o7IMSI5zzcxUTpIS"}
-{"_id":"Uss6lf6OaceooY6v","name":"Custom Items Locks","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"name":"Goods","type":"Item","sort":1400000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"FmEbrVsyo7h7BzfL"}
-{"name":"Armory","type":"Item","sort":1500000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"Dupw6alXy8vYYI7I"}
-{"name":"Consumables","type":"Item","sort":1600000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"gTWZBHibLFp09weQ"}
-{"name":"Packs","type":"Item","sort":1700000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"54NktEmiGfLMrktu"}
-{"name":"Backpacks","type":"Item","sort":1800000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"6lRJUrw9M9UJHsQ7"}
-{"name":"Transports","type":"Item","sort":1900000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"bq8HZsAnrWtMHTpM"}
-{"name":"Rents","type":"Item","sort":2000000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"oAPJRneukJZVecax"}
-{"name":"Services","type":"Item","sort":2100000,"flags":{},"parent":"uedRw2OgM151tM6j","sorting":"a","color":"","_id":"58mGcZbkAXtQDUbO"}
-{"name":"Others","type":"Item","sort":2200000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":"","_id":"SJhqwKnwEtOdPlbZ"}
-{"_id":"oAPJRneukJZVecax","name":"Rents","type":"Item","sort":2300000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
-{"_id":"58mGcZbkAXtQDUbO","name":"Services","type":"Item","sort":2400000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
-{"_id":"bq8HZsAnrWtMHTpM","name":"Transports","type":"Item","sort":2500000,"flags":{},"parent":"QjnoD7Cs8CN5YLoZ","sorting":"a","color":""}
-{"$$deleted":true,"_id":"uedRw2OgM151tM6j"}
-{"name":"Meal","type":"Item","sort":2600000,"flags":{},"parent":"FtZRJJ062wOWo9wz","sorting":"a","color":"","_id":"YktXetnu3nH5aRik"}
-{"name":"Beverage","type":"Item","sort":2700000,"flags":{},"parent":"FtZRJJ062wOWo9wz","sorting":"a","color":"","_id":"zzorKrqnZkQqZHeN"}
-{"name":"10 pg","type":"Item","sort":2800000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"5uGZHn1g0D7Di2ZZ"}
-{"name":"50 gp","type":"Item","sort":2900000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"jMTGNZb5QGh1Kte9"}
-{"name":"100 gp","type":"Item","sort":3000000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"gK0nyaOrijYv2Q3q"}
-{"name":"500 gp","type":"Item","sort":3100000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"eQuPNfNTYv728Jtv"}
-{"name":"1000","type":"Item","sort":3200000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":"","_id":"cooThzCyvUI04mHT"}
-{"_id":"cooThzCyvUI04mHT","name":"1000 gp","type":"Item","sort":3200000,"flags":{},"parent":"RGz4kAoiyUrmvzds","sorting":"a","color":""}
-{"_id":"RGz4kAoiyUrmvzds","name":"Custom Gemstones","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"m","color":"#000000"}
-{"_id":"MESOP3UGEKH3bxUX","name":"Monasterio","type":"Item","sort":100000,"flags":{},"parent":"jEChmG4v5j6XDGJJ","sorting":"a","color":"#000000"}
-{"_id":"5gvBjuK3YSylCDj1","name":"Pousada","type":"Item","sort":200000,"flags":{},"parent":"jEChmG4v5j6XDGJJ","sorting":"a","color":"#000000"}
-{"$$deleted":true,"_id":"DBf7AF7qNbWGU7rr"}
-{"name":"Custom Items Treasure","type":"Item","sort":3300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"tb0nkACZMM9Bouqy"}
-{"$$deleted":true,"_id":"aPsDrTApzo1LRTxW"}
-{"$$deleted":true,"_id":"WSouOnF69LIjAA2D"}
-{"$$deleted":true,"_id":"YlaIbPDxOo61zHJb"}
-{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
-{"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
+{"name":"Custom Items Shop","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"GD22SLHuo7rqX3gO"}
+{"name":"Services","type":"Item","sort":200000,"flags":{},"parent":"GD22SLHuo7rqX3gO","sorting":"a","color":"#000000","_id":"oqY4LyjZZRSzr2YW"}
+{"name":"Full Tables","type":"RollTable","sort":100000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"c05xPhGV5ya8aJZC"}
+{"name":"Sub Tables","type":"RollTable","sort":200000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"nvZrI68JIQVppB94"}
