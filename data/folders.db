@@ -59,3 +59,7 @@
 {"name":"Factions","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"uTo9kI5hHoYFKEwp"}
 {"name":"World Maps","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"ulNF6xNzsSSFk9rH"}
 {"name":"NPCs Players - 4a","type":"Actor","sort":1300000,"flags":{},"parent":"i3yG2YoOxZH9CB2D","sorting":"a","color":"#000000","_id":"w4LO57XIBDHzP7IK"}
+{"$$deleted":true,"_id":"i3yG2YoOxZH9CB2D"}
+{"$$deleted":true,"_id":"w4LO57XIBDHzP7IK"}
+{"$$deleted":true,"_id":"GD22SLHuo7rqX3gO"}
+{"$$deleted":true,"_id":"oqY4LyjZZRSzr2YW"}

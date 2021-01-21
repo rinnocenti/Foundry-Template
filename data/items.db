@@ -22,3 +22,20 @@
 {"_id":"l7MzH5bGwgumiwDK","name":"Birth Registration","permission":{"default":0,"X4uo406iXTm4HkVN":3},"type":"loot","data":{"description":{"value":"<p>Birth registration with paternity and local citizenship.</p>","chat":"","unidentified":""},"source":"Service","quantity":1,"weight":0,"price":0.03,"attuned":false,"attunement":0,"equipped":false,"rarity":"Very Rare","identified":true,"damage":{"parts":[]},"attributes":{"spelldc":10}},"folder":"oqY4LyjZZRSzr2YW","sort":101102,"flags":{"cf":null,"pick-up-stix":{"pick-up-stix":{"tokenData":{"width":1,"height":1}}}},"img":"systems/dnd5e/icons/items/inventory/letter-sealed.jpg","effects":[]}
 {"_id":"twHX4te9VIbVHSol","name":"Serviço Mensagem (100 milhas)","permission":{"default":0,"X4uo406iXTm4HkVN":3},"type":"loot","data":{"description":{"value":"<p>Envio de mensagens para destin&aacute;tarios em todo o continente.<br />Cada unidade coresponde a 100 milhas de dist&acirc;ncia.</p>","chat":"","unidentified":""},"source":"Message","quantity":1,"weight":0,"price":17,"attuned":false,"attunement":0,"equipped":false,"rarity":"Rare","identified":true,"attributes":{"spelldc":10},"damage":{"parts":[]}},"folder":"oqY4LyjZZRSzr2YW","sort":101102,"flags":{"cf":null,"pick-up-stix":{"pick-up-stix":{"tokenData":{"width":1,"height":1}}}},"img":"systems/dnd5e/icons/items/inventory/letters-sealed.jpg","effects":[]}
 {"_id":"xVjPGObEb8PSY1Gg","name":"Serviço Mensagem","permission":{"default":0,"X4uo406iXTm4HkVN":3},"type":"loot","data":{"description":{"value":"<p>Envio de mensagens para destinátarios em todo o continente.<br>Cada unidade coresponde a 1 milha de distância.</p>","chat":"","unidentified":""},"source":"Message","quantity":1,"weight":0,"price":0.2,"attuned":false,"attunement":0,"equipped":false,"rarity":"Rare","identified":true,"damage":{"parts":[]},"attributes":{"spelldc":10}},"folder":"oqY4LyjZZRSzr2YW","sort":101102,"flags":{"cf":null,"pick-up-stix":{"pick-up-stix":{"tokenData":{"width":1,"height":1}}}},"img":"systems/dnd5e/icons/items/inventory/letters-sealed.jpg","effects":[]}
+{"$$deleted":true,"_id":"8emn8khuQBzDL8Q8"}
+{"$$deleted":true,"_id":"9TPAoNgycSna4W4x"}
+{"$$deleted":true,"_id":"L7iAJtC0M5s5WOhH"}
+{"$$deleted":true,"_id":"MMMW3z3xiErJ5Y2y"}
+{"$$deleted":true,"_id":"Nm7kzBegXL2ItJvz"}
+{"$$deleted":true,"_id":"SmxUuODOlWNoXvM3"}
+{"$$deleted":true,"_id":"UvGLlQ9bduuYoG0x"}
+{"$$deleted":true,"_id":"UwQZ3cFdGj73ewec"}
+{"$$deleted":true,"_id":"UyPksZDBBKeYUdNn"}
+{"$$deleted":true,"_id":"Y9fYIIyIi1Sa5uou"}
+{"$$deleted":true,"_id":"ZwJvegzrxaXHWk9y"}
+{"$$deleted":true,"_id":"dKeGMmj7WxI0Yull"}
+{"$$deleted":true,"_id":"ek8K8cpVzGL3etsM"}
+{"$$deleted":true,"_id":"hcp420MTKDbqNUiB"}
+{"$$deleted":true,"_id":"l7MzH5bGwgumiwDK"}
+{"$$deleted":true,"_id":"twHX4te9VIbVHSol"}
+{"$$deleted":true,"_id":"xVjPGObEb8PSY1Gg"}
