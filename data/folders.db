@@ -8,7 +8,6 @@
 {"name":"Pousada Bargewright","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"8xM7RNWMC4gAxZsD"}
 {"name":"Salão Summit","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"9tj103hVN9EMA3vz"}
 {"name":"Beliard","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"BKIFqMKyYuAbWSbO"}
-{"name":"Players NPCs - 5a","type":"Actor","sort":1500000,"flags":{},"parent":"kIBQbZiCikt8U5xT","sorting":"a","color":"#000000","_id":"BKstcRDZnMeALmna"}
 {"name":"Fortaleza Rivergard","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"ChOkJopw08x16bWJ"}
 {"_id":"Csxjv6bbZ5uhtlPi","name":"World NPCs","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#008000"}
 {"name":"Yartar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Df4UeT2kSvSnh8qC"}
@@ -17,7 +16,6 @@
 {"_id":"FPqwUCNiJ3idwpZV","name":"Loots","type":"Actor","sort":850000,"flags":{},"parent":null,"sorting":"a","color":"#c1c100"}
 {"name":"Womford","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"FsQfYXs7rv9DXxtj"}
 {"name":"Ponte Ocidental","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Fv0p2eWDc7URyeG5"}
-{"name":"Custom Items Shop","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"GD22SLHuo7rqX3gO"}
 {"_id":"GLcoYCR2LWOMMkw2","name":"Manual Monster","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#800000"}
 {"name":"NPCs Players - 4a","type":"Actor","sort":1300000,"flags":{},"parent":"QpniJXtrCr6WJSkM","sorting":"a","color":"#000000","_id":"HPxIugt2RTBz3nhZ"}
 {"name":"Tribos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"Kv2ZataxUH2zM49i"}
@@ -46,12 +44,10 @@
 {"name":"Players - 4a","type":"Actor","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff","_id":"i3yG2YoOxZH9CB2D"}
 {"name":"Quest: Vale Suspirante","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"i4LtC2qOvOGCY3XF"}
 {"name":"Culto da Terra","type":"Scene","sort":300000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#631386","_id":"j8Rt075hqQmu1eul"}
-{"name":"Players - 5a","type":"Actor","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff","_id":"kIBQbZiCikt8U5xT"}
 {"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
 {"name":"Dungeons Maps","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#008000","_id":"n1rMauCzRghGXEvw"}
 {"name":"Sub Tables","type":"RollTable","sort":200000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"nvZrI68JIQVppB94"}
 {"name":"Phandalin","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"oPnauNKd1J9nrDA5"}
-{"name":"Services","type":"Item","sort":200000,"flags":{},"parent":"GD22SLHuo7rqX3gO","sorting":"a","color":"#000000","_id":"oqY4LyjZZRSzr2YW"}
 {"name":"Culto da Chama Eterna","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"qJrnQ1kjCtEGa0yl"}
 {"name":"Table Items","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"qkSpEYlRF7v7jObu"}
 {"name":"_fql_quests","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","_id":"s8XxsK8BxewqGGLm"}
