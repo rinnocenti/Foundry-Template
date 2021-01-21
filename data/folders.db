@@ -38,11 +38,13 @@
 {"_id":"VkuOZ1pzrvDl4qzD","name":"Informações Players","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#041b8b"}
 {"name":"my Scenes","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Vvtb09dsbGKf4XR9"}
 {"name":"Tesouros","type":"Item","sort":1000000,"flags":{},"parent":"aPsDrTApzo1LRTxW","sorting":"a","color":"#000000","_id":"WSouOnF69LIjAA2D"}
+{"name":"Players - 5a","type":"Actor","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff","_id":"XQ2vnSXMX0NdBRdC"}
 {"name":"Conyberry","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"YdiuemptETJcVEJq"}
 {"name":"Notes","type":"Item","sort":900000,"flags":{},"parent":"aPsDrTApzo1LRTxW","sorting":"a","color":"#000000","_id":"YlaIbPDxOo61zHJb"}
 {"name":"Custom Items","type":"Item","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"aPsDrTApzo1LRTxW"}
 {"_id":"alPfJ3dk1YPJZZC0","name":"Faerun-Maps","type":"JournalEntry","sort":0,"flags":{},"parent":null,"sorting":"a","color":"#0c5a02"}
 {"name":"Odio Uivante","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"c6D2t7wXvv0lZS8T"}
+{"name":"Players NPCs - 5a","type":"Actor","sort":1500000,"flags":{},"parent":"XQ2vnSXMX0NdBRdC","sorting":"a","color":"#000000","_id":"dlp0GdwacvQWcXsj"}
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
 {"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"R9oUQrCs4YvXauzj","sorting":"a","color":"","_id":"gVp6PEokoIGVFcyt"}
 {"name":"Items","type":"Item","sort":null,"flags":{},"parent":"R9oUQrCs4YvXauzj","sorting":"a","color":"","_id":"hKa15kGa3ngcI4Fu"}
