@@ -17,7 +17,6 @@
 {"_id":"FPqwUCNiJ3idwpZV","name":"Loots","type":"Actor","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"#c1c100"}
 {"name":"Womford","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"FsQfYXs7rv9DXxtj"}
 {"name":"Ponte Ocidental","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Fv0p2eWDc7URyeG5"}
-{"name":"Custom Items Shop","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"GD22SLHuo7rqX3gO"}
 {"_id":"GLcoYCR2LWOMMkw2","name":"Manual Monster","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#800000"}
 {"name":"Tribos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"Kv2ZataxUH2zM49i"}
 {"name":"Culto da Onda Esmagadora","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"LO77sJ29CDEDBsCz"}
@@ -42,7 +41,6 @@
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
 {"name":"Delegação de Mirabar","type":"Actor","sort":null,"flags":{},"parent":"uPrfD60BrG5orgqA","sorting":"a","color":"#000000","_id":"hTAUgIgjjmXTUphs"}
 {"name":"Culto da Terra Negra","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"hyT3Dn1uNwFIqX5q"}
-{"name":"Players - 4a","type":"Actor","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff","_id":"i3yG2YoOxZH9CB2D"}
 {"name":"Quest: Vale Suspirante","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"i4LtC2qOvOGCY3XF"}
 {"name":"Culto da Terra","type":"Scene","sort":300000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#631386","_id":"j8Rt075hqQmu1eul"}
 {"name":"Players - 5a","type":"Actor","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff","_id":"kIBQbZiCikt8U5xT"}
@@ -50,7 +48,6 @@
 {"name":"Dungeons Maps","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#008000","_id":"n1rMauCzRghGXEvw"}
 {"name":"Sub Tables","type":"RollTable","sort":200000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"nvZrI68JIQVppB94"}
 {"name":"Phandalin","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"oPnauNKd1J9nrDA5"}
-{"name":"Services","type":"Item","sort":200000,"flags":{},"parent":"GD22SLHuo7rqX3gO","sorting":"a","color":"#000000","_id":"oqY4LyjZZRSzr2YW"}
 {"name":"Culto da Chama Eterna","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"qJrnQ1kjCtEGa0yl"}
 {"name":"Table Items","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"qkSpEYlRF7v7jObu"}
 {"name":"_fql_quests","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","_id":"s8XxsK8BxewqGGLm"}
@@ -58,8 +55,3 @@
 {"name":"Outros","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"uPrfD60BrG5orgqA"}
 {"name":"Factions","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"uTo9kI5hHoYFKEwp"}
 {"name":"World Maps","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"ulNF6xNzsSSFk9rH"}
-{"name":"NPCs Players - 4a","type":"Actor","sort":1300000,"flags":{},"parent":"i3yG2YoOxZH9CB2D","sorting":"a","color":"#000000","_id":"w4LO57XIBDHzP7IK"}
-{"$$deleted":true,"_id":"i3yG2YoOxZH9CB2D"}
-{"$$deleted":true,"_id":"w4LO57XIBDHzP7IK"}
-{"$$deleted":true,"_id":"GD22SLHuo7rqX3gO"}
-{"$$deleted":true,"_id":"oqY4LyjZZRSzr2YW"}
