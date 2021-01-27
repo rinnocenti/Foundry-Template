@@ -22,8 +22,10 @@
 {"name":"Ponte Ocidental","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Fv0p2eWDc7URyeG5"}
 {"name":"Outros","type":"RollTable","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"G3rg1uMQAQiDUzoy"}
 {"_id":"GLcoYCR2LWOMMkw2","name":"Manual Monster","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#800000"}
+{"name":"Encountros","type":"RollTable","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"IBCMoLJzlmnTXwk5"}
 {"name":"Tribos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"Kv2ZataxUH2zM49i"}
 {"name":"Culto da Onda Esmagadora","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"LO77sJ29CDEDBsCz"}
+{"name":"Sub Encontros","type":"RollTable","sort":600000,"flags":{},"parent":"IBCMoLJzlmnTXwk5","sorting":"a","color":"","_id":"NLRq9ddHbR5pZxEq"}
 {"_id":"NMEO7TXqlRAwczJk","name":"Templates","type":"Actor","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#004080"}
 {"name":"Cities Map","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#804000","_id":"NNVXqb54Y3sl9Z6o"}
 {"_id":"Orks5yMcA1oyQlXM","name":"Faerun-Factions","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#0d9e0a"}
@@ -32,17 +34,20 @@
 {"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"6hfD3qn3wB0Vn3X3","sorting":"a","color":"","_id":"RwXKXTzESQFOsbuk"}
 {"name":"Lua Argentea","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"SRVW5iDwRfODWNqR"}
 {"name":"Quest: Fortaleza Riverguard","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"SVMSDhUnYc2EZGdM"}
+{"name":"Outros","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"SrGj2HYxfI8Mrabx"}
 {"_id":"UFAOgbGGAoFZDvxf","name":"Faerun-Dungeons","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#1b7901"}
+{"name":"Trigger Happy","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#e9ab01","_id":"VQMKGuYNyJxYjnnE"}
 {"_id":"VWfkYMXuzWSS3GaJ","name":"Custom Rules","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#000000"}
 {"name":"Cultos e Tribos","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"VbwMioA3On7bx8lR"}
 {"_id":"VkuOZ1pzrvDl4qzD","name":"Informações Players","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#041b8b"}
 {"name":"my Scenes","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Vvtb09dsbGKf4XR9"}
-{"name":"Tables","type":"RollTable","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"Xv6dWdAHGKaBcy73"}
+{"name":"Tipos de Encontros","type":"RollTable","sort":500000,"flags":{},"parent":"IBCMoLJzlmnTXwk5","sorting":"a","color":"#000000","_id":"XnbLIeIsORUIbbPN"}
 {"name":"Conyberry","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"YdiuemptETJcVEJq"}
 {"name":"BattleMaps","type":"Scene","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#853fca","_id":"aDmD4LZ2ebIahdtX"}
 {"_id":"alPfJ3dk1YPJZZC0","name":"Faerun-Maps","type":"JournalEntry","sort":0,"flags":{},"parent":null,"sorting":"a","color":"#0c5a02"}
 {"name":"Full Tables","type":"RollTable","sort":100000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"c05xPhGV5ya8aJZC"}
 {"name":"Odio Uivante","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"c6D2t7wXvv0lZS8T"}
+{"_id":"d11r41ZSdAI0RSaa","name":"BattleMaps","type":"Scene","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#853fca"}
 {"name":"Items","type":"Item","sort":null,"flags":{},"parent":"6hfD3qn3wB0Vn3X3","sorting":"a","color":"","_id":"dcy9alw7jDpeWOYo"}
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
 {"name":"Delegação de Mirabar","type":"Actor","sort":null,"flags":{},"parent":"uPrfD60BrG5orgqA","sorting":"a","color":"#000000","_id":"hTAUgIgjjmXTUphs"}
@@ -58,6 +63,7 @@
 {"name":"Phandalin","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"oPnauNKd1J9nrDA5"}
 {"name":"Culto do Fogo","type":"Scene","sort":900000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#870303","_id":"ok1ghSNSkVCduJZV"}
 {"name":"Culto da Chama Eterna","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"qJrnQ1kjCtEGa0yl"}
+{"_id":"qOezzmRcBBQzZfWH","name":"Culto do Fogo","type":"Scene","sort":800000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#870303"}
 {"name":"Table Items","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"qkSpEYlRF7v7jObu"}
 {"name":"_fql_quests","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","_id":"s8XxsK8BxewqGGLm"}
 {"name":"Monaterio de Pedra","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"tJPPogTieBxrmOM6"}
@@ -65,3 +71,5 @@
 {"name":"Outros","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"uPrfD60BrG5orgqA"}
 {"name":"Factions","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"uTo9kI5hHoYFKEwp"}
 {"name":"World Maps","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"ulNF6xNzsSSFk9rH"}
+{"name":"NPCs Players - 4a","type":"Actor","sort":1300000,"flags":{},"parent":"i3yG2YoOxZH9CB2D","sorting":"a","color":"#000000","_id":"w4LO57XIBDHzP7IK"}
+{"_id":"xJTazoTJ1RuOUwgG","name":"Culto da Agua","type":"Scene","sort":700000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#170da0"}
