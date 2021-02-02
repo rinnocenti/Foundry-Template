@@ -4,7 +4,6 @@
 {"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"3nHccieN4jesr9sk"}
 {"name":"Outros","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#04b9a4","_id":"3oBUbflneC5nwqvO"}
 {"name":"Cultos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"3piGMyXFVHxYDnFO"}
-{"name":"Creatures","type":"Actor","sort":1600000,"flags":{},"parent":null,"sorting":"a","_id":"459Nsc6W4Kf2LRSD"}
 {"name":"Items DAE","type":"Item","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"5JVZPmivCcrVi8WL"}
 {"name":"Quest: Pináculo Penaventaval","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"6Dd2VeJ0RE5ehWMf"}
 {"name":"RedLarch","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"6HXYvAWhVvnH7Vui"}
