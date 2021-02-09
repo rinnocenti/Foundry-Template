@@ -2,3 +2,7 @@
 data/chat.db
 
 data/fog.db
+
+data/combat.db
+
+data/items.db
