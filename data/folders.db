@@ -1,15 +1,17 @@
 {"_id":"01oeYjUm593Xt5UL","name":"NPCs","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#000000"}
 {"name":"Campodourado","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"0WcPykg9hSUXRseN"}
+{"name":"Quest: Castelo Naerytar","type":"JournalEntry","sort":1500000,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"","_id":"1GqSgIx5Zv5YUkWc"}
 {"_id":"3XFpCmwXNVSRcrb1","name":"Custom Items Treasure","type":"Item","sort":600000,"flags":{},"parent":"Gv8Bsh2MiCWpbxzV","sorting":"a","color":"#000000"}
-{"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"3nHccieN4jesr9sk"}
+{"_id":"3nHccieN4jesr9sk","name":"Pick-Up-Stix","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"Outros","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#04b9a4","_id":"3oBUbflneC5nwqvO"}
 {"name":"Cultos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"3piGMyXFVHxYDnFO"}
 {"_id":"459Nsc6W4Kf2LRSD","name":"Creatures","type":"Actor","sort":250000,"flags":{},"parent":null,"sorting":"a"}
-{"name":"Items DAE","type":"Item","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"5JVZPmivCcrVi8WL"}
+{"_id":"5JVZPmivCcrVi8WL","name":"Items DAE","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"Quest: Pináculo Penaventaval","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"6Dd2VeJ0RE5ehWMf"}
 {"name":"RedLarch","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"6HXYvAWhVvnH7Vui"}
 {"_id":"8tqA6bQfJ67Pq0iM","name":"Custom Items Notes","type":"Item","sort":300000,"flags":{},"parent":"Gv8Bsh2MiCWpbxzV","sorting":"a","color":"#000000"}
 {"name":"Pousada Bargewright","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"8xM7RNWMC4gAxZsD"}
+{"name":"Castelo Naerytar","type":"Actor","sort":1800000,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"","_id":"9RHXv53ERKp1AVoL"}
 {"name":"Salão Summit","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"9tj103hVN9EMA3vz"}
 {"name":"Beliard","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"BKIFqMKyYuAbWSbO"}
 {"name":"Players NPCs - 5a","type":"Actor","sort":1500000,"flags":{},"parent":"kIBQbZiCikt8U5xT","sorting":"a","color":"#000000","_id":"BKstcRDZnMeALmna"}
@@ -23,12 +25,13 @@
 {"name":"Womford","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"FsQfYXs7rv9DXxtj"}
 {"name":"Ponte Ocidental","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"Fv0p2eWDc7URyeG5"}
 {"_id":"GLcoYCR2LWOMMkw2","name":"Manual Monster","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#800000"}
-{"name":"Custom Items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Gv8Bsh2MiCWpbxzV"}
+{"_id":"Gv8Bsh2MiCWpbxzV","name":"Custom Items","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"NPCS Esquecidos","type":"Actor","sort":1700000,"flags":{},"parent":"kIBQbZiCikt8U5xT","sorting":"a","color":"","_id":"HrGeTSD9apDSlzGF"}
 {"name":"Encountros","type":"RollTable","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"IBCMoLJzlmnTXwk5"}
 {"name":"Tribos","type":"JournalEntry","sort":null,"flags":{},"parent":"Orks5yMcA1oyQlXM","sorting":"a","color":"#000000","_id":"Kv2ZataxUH2zM49i"}
 {"name":"Culto da Onda Esmagadora","type":"Actor","sort":null,"flags":{},"parent":"VbwMioA3On7bx8lR","sorting":"a","color":"#000000","_id":"LO77sJ29CDEDBsCz"}
 {"name":"UPDATE","type":"JournalEntry","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"MVQklTIPUekZFquy"}
+{"name":"Quest: Beliard em Chamas","type":"JournalEntry","sort":1600000,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"","_id":"N5ssC0pMQM4UWBni"}
 {"name":"Sub Encontros","type":"RollTable","sort":600000,"flags":{},"parent":"IBCMoLJzlmnTXwk5","sorting":"a","color":"","_id":"NLRq9ddHbR5pZxEq"}
 {"_id":"NMEO7TXqlRAwczJk","name":"Templates","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#004080"}
 {"name":"Cities Map","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#804000","_id":"NNVXqb54Y3sl9Z6o"}
@@ -51,6 +54,7 @@
 {"name":"Full Tables","type":"RollTable","sort":100000,"flags":{},"parent":"qkSpEYlRF7v7jObu","sorting":"a","color":"","_id":"c05xPhGV5ya8aJZC"}
 {"name":"Odio Uivante","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"c6D2t7wXvv0lZS8T"}
 {"_id":"d11r41ZSdAI0RSaa","name":"BattleMaps","type":"Scene","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#853fca"}
+{"name":"Custom Tomos","type":"Item","sort":900000,"flags":{},"parent":"Gv8Bsh2MiCWpbxzV","sorting":"a","color":"","_id":"dbsvcf4427VvcHot"}
 {"name":"Monasterio","type":"Item","sort":null,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"#000000","_id":"djw8jOJeygoT6viC"}
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
 {"name":"Pousada","type":"Item","sort":null,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"#000000","_id":"eAfUWfXxMxx7owKN"}
@@ -61,7 +65,7 @@
 {"_id":"i3yG2YoOxZH9CB2D","name":"Players - 4a","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff"}
 {"name":"Quest: Vale Suspirante","type":"JournalEntry","sort":null,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","color":"#000000","_id":"i4LtC2qOvOGCY3XF"}
 {"_id":"j8Rt075hqQmu1eul","name":"Culto da Terra","type":"Scene","sort":100000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#631386"}
-{"_id":"kIBQbZiCikt8U5xT","name":"Players - 5a","type":"Actor","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff"}
+{"_id":"kIBQbZiCikt8U5xT","name":"Players - 5a","type":"Actor","sort":450000,"flags":{},"parent":null,"sorting":"a","color":"#0080ff"}
 {"_id":"l30xdcIr0qmvpJWh","name":"Faerun-Citys","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":"#7e0214"}
 {"name":"Quest: Salão da Lua Argêntea","type":"JournalEntry","sort":1100000,"flags":{},"parent":"UFAOgbGGAoFZDvxf","sorting":"a","_id":"livvuPd29kOdOWkD"}
 {"_id":"mr67jo0Vkti7efG1","name":"Castelo Naerytar","type":"Scene","sort":500000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":""}
@@ -83,3 +87,4 @@
 {"_id":"xJTazoTJ1RuOUwgG","name":"Culto da Agua","type":"Scene","sort":400000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#170da0"}
 {"name":"Rivergard","type":"Item","sort":800000,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"","_id":"yCbkX4V2RClwklNA"}
 {"name":"Tables","type":"RollTable","sort":700000,"flags":{},"parent":null,"sorting":"a","_id":"ywczyJCPnu3QJlTm"}
+{"name":"Beliard","type":"Scene","sort":1000000,"flags":{},"parent":"NNVXqb54Y3sl9Z6o","sorting":"a","color":"","_id":"dixaPWdwwIYRtHnr"}
