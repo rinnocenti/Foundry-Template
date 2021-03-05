@@ -56,6 +56,7 @@
 {"name":"Odio Uivante","type":"Actor","sort":null,"flags":{},"parent":"FPqwUCNiJ3idwpZV","sorting":"a","color":"#000000","_id":"c6D2t7wXvv0lZS8T"}
 {"_id":"d11r41ZSdAI0RSaa","name":"BattleMaps","type":"Scene","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#853fca"}
 {"name":"Custom Tomos","type":"Item","sort":900000,"flags":{},"parent":"Gv8Bsh2MiCWpbxzV","sorting":"a","color":"","_id":"dbsvcf4427VvcHot"}
+{"name":"Beliard","type":"Scene","sort":1000000,"flags":{},"parent":"NNVXqb54Y3sl9Z6o","sorting":"a","color":"","_id":"dixaPWdwwIYRtHnr"}
 {"name":"Monasterio","type":"Item","sort":null,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"#000000","_id":"djw8jOJeygoT6viC"}
 {"name":"Triboar","type":"Actor","sort":null,"flags":{},"parent":"Csxjv6bbZ5uhtlPi","sorting":"a","color":"#000000","_id":"e2d8eJo7KJQWoraE"}
 {"name":"Pousada","type":"Item","sort":null,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"#000000","_id":"eAfUWfXxMxx7owKN"}
@@ -86,4 +87,8 @@
 {"_id":"xJTazoTJ1RuOUwgG","name":"Culto da Agua","type":"Scene","sort":700000,"flags":{},"parent":"n1rMauCzRghGXEvw","sorting":"a","color":"#170da0"}
 {"name":"Rivergard","type":"Item","sort":800000,"flags":{},"parent":"CgEQ7drElXYNTRUU","sorting":"a","color":"","_id":"yCbkX4V2RClwklNA"}
 {"name":"Tables","type":"RollTable","sort":700000,"flags":{},"parent":null,"sorting":"a","_id":"ywczyJCPnu3QJlTm"}
-{"name":"Beliard","type":"Scene","sort":1000000,"flags":{},"parent":"NNVXqb54Y3sl9Z6o","sorting":"a","color":"","_id":"dixaPWdwwIYRtHnr"}
+{"$$deleted":true,"_id":"HrGeTSD9apDSlzGF"}
+{"name":"Roam","type":"Actor","sort":1900000,"flags":{},"parent":"BKstcRDZnMeALmna","sorting":"a","color":"","_id":"ZeUh5zIpyf7F8efY"}
+{"name":"Diorito","type":"Actor","sort":2000000,"flags":{},"parent":"BKstcRDZnMeALmna","sorting":"a","color":"","_id":"7L7GpazLNNpiQ78B"}
+{"$$deleted":true,"_id":"7L7GpazLNNpiQ78B"}
+{"$$deleted":true,"_id":"ZeUh5zIpyf7F8efY"}
